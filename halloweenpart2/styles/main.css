@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font: 12px sans-serif;
+}
+
+.imageLeft{
+  float: left;
+  padding-right: 15px;
+}
+
+.title{
+  font-size: 300%;
+  padding-top: 15px;
+  color: orange;
+  text-shadow: 2px 2px #000000;
+  font-style: italic;
+}
+
+.subtitle
+{
+	padding-bottom: 15px;
+}
+
+
+.intro::first-letter
+{
+	font-size: 200%;
+}
+
+a
+{
+	color: orange;
+  font-weight:bold;
+}
+
+
+a:hover
+{
+	color:green;
+}
+
+footer
+{
+	text-align: center;
+}
+
+ul li
+{
+    margin: 5px;
+}
